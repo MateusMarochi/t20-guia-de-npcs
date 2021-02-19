@@ -1,0 +1,27 @@
+{
+  "name": "t20-guia-de-npcs",
+  "title": "Guia de NPCs Compendium",
+  "description": "Um Compendium do módulo de guia de npcs de Tormenta20.",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "MateusMarochi",
+      "email": "",
+      "url": "https://github.com/MateusMarochi"
+    }
+  ],
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "packs": [
+    {
+      "name": "guia-de-npcs",
+      "label": "Guia de NPCs",
+      "system": "tormenta20",
+      "path": "packs/guia-de-npcs.db",
+      "entity": "Actor"
+    }
+  ],
+  "url": "https://github.com/MateusMarochi/t20-guia-de-npcs",
+  "manifest": "https://github.com/MateusMarochi/tormenta20-compendium/blob/master/module.json",
+  "download": "https://github.com/MateusMarochi/tormenta20-compendium/archive/0.5.1.zip"
+}
