@@ -2,7 +2,7 @@
 Compendium em construção do Guia de NPCs de Tormenta 20 para o FoundryVTT
 ## Progresso atual
  - [x] O Povo
- - [ ] O Crime
+ - [x] O Crime
  - [ ] A Lei
  - [ ] O Templo
  - [ ] A Corte
