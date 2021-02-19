@@ -4,7 +4,7 @@
   "description": "Um Compendium do módulo de guia de npcs de Tormenta20.",
   "version": "0.1.3",
   "author": "MateusMarochi",
-  "minimumCoreVersion": "0.6.6",
+  "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "packs": [
     {
