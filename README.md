@@ -5,10 +5,10 @@ Compendium em construção do Guia de NPCs de Tormenta 20 para o FoundryVTT
  - [x] O Povo
  - [x] O Crime
  - [x] A Lei
- - [ ] O Templo
+ - [x] O Templo
  - [x] A Corte
  - [x] Animais
- - [ ?? ] Lendas de Arton
+ - [ ] ~~Lendas de Arton~~
 
 ## Instalação
 Para instalar esse módulo, adicione-o manualmente com o seguinte link:
